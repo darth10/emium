@@ -137,6 +137,8 @@ defaultKeyMappings =
 
   "<a-p>": "goBack"
   "<a-n>": "goForward"
+  "up": "goBack"
+  "un": "goForward"
   "<a-a>": "goUp"
   "<a-r>": "goToRoot"
 
