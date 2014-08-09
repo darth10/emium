@@ -75,6 +75,8 @@ Navigating your history:
 
     <a-p>   go back in history
     <a-n>   go forward in history
+    up      go back in history
+    un      go forward in history
 
 Manipulating tabs:
 
